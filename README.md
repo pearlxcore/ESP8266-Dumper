@@ -8,7 +8,7 @@ The output binary can be flashed into another ESP8266 device. Flash using https:
 
 # Usage
 
-Key in your output name for output binary and com port (example=COM3) .
+Key in your output binary name and com port (example=COM3) .
 
 # Credit
 
