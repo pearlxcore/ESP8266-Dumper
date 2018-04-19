@@ -6,4 +6,4 @@ This tool let you dump ESP8266 flash memory to local directory. It based on espt
 
 Key in your output name for output binary and com port (example=COM3) 
 
-Thanks to Draqen
+Thanks to Draqen and tomyrambozha
