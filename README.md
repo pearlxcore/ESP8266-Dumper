@@ -1,4 +1,4 @@
-# ESP8266 Flash Dump
+# ESP8266 Flash Dumper
 
 ![untitled](https://user-images.githubusercontent.com/36906814/39050463-0f89716c-44d8-11e8-9d63-acce87ec36ae.png)
 
