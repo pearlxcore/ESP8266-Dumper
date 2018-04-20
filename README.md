@@ -1,6 +1,6 @@
 # ESP8266 Flash Dumper
 
-![untitled](https://user-images.githubusercontent.com/36906814/39050463-0f89716c-44d8-11e8-9d63-acce87ec36ae.png)
+![untitled](https://user-images.githubusercontent.com/36906814/39050905-b0f4d680-44d9-11e8-8251-b483c869e907.png)
 
 This tool let you dump ESP8266 flash memory to local directory in .bin format. It based on esptool https://github.com/espressif/esptool
 
